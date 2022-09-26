@@ -16,7 +16,7 @@ Semaphore project][create-project].
 The CI pipeline is defined in `.semaphore/semaphore.yml` and when you run it it
 will look like this:
 
-![CI pipeline on Semaphore](public/ci-pipeline.png)
+![CI pipeline on Semaphore](semaphore/public/ci-pipeline.png)
 
 You can extend the pipeline with deployment by implementing a
 [promotion][promotions].  Refer to Semaphore documentation for additional
