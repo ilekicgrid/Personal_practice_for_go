@@ -10,8 +10,7 @@ Semaphore 2.0.
 
 ## CI on Semaphore
 
-Feel free to fork this repository and use it to [create a
-Semaphore project][create-project].
+Feel free to fork this repository and use it.
 
 The CI pipeline is defined in `.semaphore/semaphore.yml` and when you run it it
 will look like this:
