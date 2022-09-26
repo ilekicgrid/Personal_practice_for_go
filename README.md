@@ -21,13 +21,3 @@ will look like this:
 You can extend the pipeline with deployment by implementing a
 [promotion][promotions].  Refer to Semaphore documentation for additional
 [deployment examples][deployment-examples].
-
-## License
-
-Copyright (c) 2019 Rendered Text
-
-Distributed under the MIT License. See the file LICENSE.
-
-[create-project]: https://docs.semaphoreci.com/article/63-your-first-project
-[promotions]: https://docs.semaphoreci.com/article/67-deploying-with-promotions
-[deployment-examples]: https://docs.semaphoreci.com/article/123-tutorials-and-example-projects#deployment
